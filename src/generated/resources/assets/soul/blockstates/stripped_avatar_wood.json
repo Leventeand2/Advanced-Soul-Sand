@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "soul:block/stripped_avatar_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "soul:block/stripped_avatar_wood"
+    },
+    "axis=z": {
+      "model": "soul:block/stripped_avatar_wood_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "soul:block/avatar_log_top",
+    "side": "soul:block/avatar_log"
+  }
+}

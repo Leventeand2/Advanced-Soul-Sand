@@ -1,0 +1,35 @@
+{
+  "item.soul.soul_dust": "Soul Sand Dust",
+
+  "creativemodetab.advanced_soul_sand": "Advanced Soul Sand",
+
+  "block.soul.ref_soul_sand": "Reinforced Soul Sand",
+
+  "item.soul.soul_sand_sword": "Soul Sand Sword",
+  "item.soul.soul_sand_pickaxe": "Soul Sand Pickaxe",
+  "item.soul.soul_sand_shovel": "Soul Sand Shovel",
+  "item.soul.soul_sand_axe": "Soul Sand Axe",
+  "item.soul.soul_sand_hoe": "Soul Sand Hoe",
+
+  "effect.soul.curse_of_the_souls": "Curse Of The Souls",
+
+  "item.minecraft.potion.effect.curse_of_the_souls_potion": "Curse Of The Souls Potion",
+  "item.minecraft.splash_potion.effect.curse_of_the_souls_potion": "Curse Of The Souls Splash Potion",
+  "item.minecraft.lingering_potion.effect.curse_of_the_souls_potion": "Curse Of The Souls Lingering Potion",
+
+  "item.soul.soul_sand_helmet": "Soul Sand Helmet",
+  "item.soul.soul_sand_chestplate": "Soul Sand Chestplate",
+  "item.soul.soul_sand_leggings": "Soul Sand Leggings",
+  "item.soul.soul_sand_boots": "Soul Sand Boots",
+
+  "block.soul.avatar_log": "Avatar Log",
+  "block.soul.stripped_avatar_log": "Stripped Avatar Log",
+  "block.soul.avatar_wood": "Avatar Wood",
+  "block.soul.stripped_avatar_wood": "Stripped Avatar Wood",
+  "block.soul.avatar_planks": "Avatar Planks",
+  "block.soul.avatar_leaves": "Avatar Leaves",
+  "block.soul.avatar_sapling": "Avatar Sapling",
+
+  "item.soul.soul_sand_apple": "Soul Sand Apple",
+  "item.soul.yovo_fruit":"Yovo Fruit"
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "soul:avatar_log",
+    "soul:avatar_wood",
+    "soul:stripped_avatar_log",
+    "soul:stripped_avatar_wood"
+  ]
+}
